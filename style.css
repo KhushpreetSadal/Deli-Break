@@ -235,8 +235,10 @@ nav ul li a {
   font-size: 3vw;
 }
 .signup .p1{
-  font-size: 1vw;
+  
+    font-size: 3vw;
 }
+
 .sign{
   font-size: 1.7vw;
   background-color: #464646;
