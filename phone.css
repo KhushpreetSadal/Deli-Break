@@ -1,0 +1,147 @@
+.logo {
+  text-align: center;
+  font-size: 6vw;
+  color: #dda17b;
+  padding-top: 10vw;
+}
+.logo h1 {
+  margin-bottom: 2vh;
+}
+nav ul li a {
+  font-size: 3.5vw;
+  margin: 2vw;
+  color: white;
+  text-decoration: none;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 4vw;
+}
+.image {
+  width: 45vw;
+  display: inline-block;
+  margin: 6vw 1vw 4vw 1vw;
+}
+#content {
+  width: 46%;
+  float: right;
+  margin-top: 15vh;
+}
+.btn {
+    font-size: 3vw;
+}
+#cources .imgage2 {
+  height: 100vw;
+}
+#cources .halfside ul li {
+  font-size: 2.5vw;
+}
+.buy{
+  font-size: 3vw;
+}
+#cources .halfside p {
+  margin-left: 5vw;
+  font-size: 3vw;
+  color: #464646;
+}
+  #cources .halfside {
+    width: 39vw;
+    height: 100%;
+    margin: 3vw;
+  }
+  #cources {
+    height: 100vw;
+}
+  #cources2 {
+    height: 100vw;
+  }
+  #cources2 .imgage3 {
+    height: 100vw;
+  }
+  #cources2 .bhalfside {
+    float: right;
+    margin: auto;
+    height: 64vw;
+    width: 50vw;
+  }
+  #about{
+    height: 52vw; 
+  }
+  #about .imgage4 {
+    height: 52vw;
+  }
+  #about .chalfside{
+    width: 43vw;
+    height: 51vw;
+  }
+  .buy {
+    margin: 0 0 0 7vw;
+  }
+  #cources2 .bhalfside h1 {
+    padding-top: 8vw;
+    font-size: 6vw;
+ 
+  }
+  #cources2 .bhalfside h2 {
+    color: #dda17b;
+    margin: 1vw 0vh 1vw 5vw;
+ 
+    font-size: 4.5vw;
+}
+#cources2 .bhalfside p {
+  margin-left: 5vw;
+ 
+  color: #464646;
+  font-size: 3vw;
+}
+#cources2 .bhalfside ul li{ 
+  font-size: 2.5vw;
+
+}
+  #cources .halfside h1 {
+    padding-top: 1vw;
+  font-size: 6vw;
+    
+  }
+  #about .chalfside h1 {
+    padding-top: 1vw;
+  }  
+  #cources .halfside h2 {
+
+    font-size: 4.5vw;
+  }
+  .signup .p1 {
+    font-size: 3vw;
+}
+.footer h1 {
+  color: #dda17b;
+  font-size: 7vw;
+  padding-top: 4vw;
+}
+.footer p {
+  font-size: 4vw;
+  color: white;
+}
+.footer h2 {
+  color: white;
+  font-size: 4vw;
+  padding-top: 3vw;
+}
+.footer input {
+  font-size: 3vw;
+  border-radius: 1vw;
+  width: 42vw;
+  padding: 1.5vw;
+  margin: 1.3vw;
+}
+.footer button {
+  font-size: 3.5vw;
+  background-color: #dda17b;
+  padding: 0.5vw;
+  color: white;
+  width: 22vw;
+  border-radius: 1vw;
+  margin: 1vw 0vw 4vw 0vw;
+}
